@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.william.util","l":"DatabaseConnector"},{"p":"com.william.test","l":"Main"},{"p":"com.william.interfaces","l":"MyDataBase"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
